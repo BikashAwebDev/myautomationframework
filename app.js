@@ -5,4 +5,4 @@ setInterval(() => {
     
     au.click();
     
-}, 4000);
+}, 4500);
